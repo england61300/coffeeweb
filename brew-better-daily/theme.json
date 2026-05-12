@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "settings": {
+    "color": {
+      "palette": [
+        { "name": "Coffee", "slug": "coffee", "color": "#5c3d2e" },
+        { "name": "Cream", "slug": "cream", "color": "#f6f1eb" },
+        { "name": "Charcoal", "slug": "charcoal", "color": "#1f1f1f" }
+      ]
+    },
+    "typography": {
+      "fontFamilies": [
+        {
+          "name": "System Sans",
+          "slug": "system-sans",
+          "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--system-sans)",
+      "lineHeight": "1.6"
+    }
+  }
+}
