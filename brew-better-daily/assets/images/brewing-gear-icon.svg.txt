@@ -1,0 +1,4 @@
+Filename required: brewing-gear-icon.svg
+Recommended image: clean vector-style SVG illustration for coffee blog branding.
+Usage location: /assets/images/brewing-gear-icon.svg
+This file is a placeholder note. Replace it with brewing-gear-icon.svg before uploading.

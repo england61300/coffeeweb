@@ -1,0 +1,4 @@
+Filename required: hero-coffee.svg
+Recommended image: clean vector-style SVG illustration for coffee blog branding.
+Usage location: /assets/images/hero-coffee.svg
+This file is a placeholder note. Replace it with hero-coffee.svg before uploading.
