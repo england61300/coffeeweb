@@ -1,4 +1,0 @@
-Filename required: grinder-icon.svg
-Recommended image: clean vector-style SVG illustration for coffee blog branding.
-Usage location: /assets/images/grinder-icon.svg
-This file is a placeholder note. Replace it with grinder-icon.svg before uploading.
