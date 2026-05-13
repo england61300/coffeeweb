@@ -12,6 +12,5 @@
     </article>
 <?php endwhile; endif; ?>
 
-<p><a class="donate-link" href="https://buymeacoffee.com/tribush" target="_blank" rel="noopener">Support via Donations</a></p>
 
 <?php get_footer(); ?>

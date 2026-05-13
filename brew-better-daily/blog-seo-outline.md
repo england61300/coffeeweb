@@ -16,4 +16,4 @@ Publish one SEO post per money keyword cluster:
 - Individual review blocks (affiliate buttons)
 - Who should buy this?
 - FAQ with People Also Ask style headings
-- Final verdict + donation CTA (https://buymeacoffee.com/tribush)
+- Final verdict + donation CTA ()
