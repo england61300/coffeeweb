@@ -1,4 +1,0 @@
-Filename required: scale-icon.svg
-Recommended image: clean vector-style SVG illustration for coffee blog branding.
-Usage location: /assets/images/scale-icon.svg
-This file is a placeholder note. Replace it with scale-icon.svg before uploading.
