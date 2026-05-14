@@ -1,4 +1,0 @@
-Filename required: screenshot.png
-Recommended image: 1200x900 PNG preview of the Brew Better Daily homepage.
-Include: coffee-themed hero section, warm brown/cream palette, and readable blog card layout.
-This file is a placeholder note. Replace it with screenshot.png before uploading to WordPress.
