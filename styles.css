@@ -1,0 +1,18 @@
+:root { --bg:#f6f3ee; --paper:#fff; --text:#2b2620; --accent:#6b4226; --muted:#6f665d; }
+*{box-sizing:border-box} body{margin:0;font-family:Arial,sans-serif;color:var(--text);background:var(--bg);line-height:1.55}
+.container{width:min(1100px,92vw);margin:0 auto}
+.site-header{position:sticky;top:0;background:#fff;border-bottom:1px solid #e7e0d8;z-index:10}
+.nav-wrap{display:flex;justify-content:space-between;align-items:center;padding:1rem 0}.brand{font-weight:700;color:var(--accent);text-decoration:none}
+nav a{margin-left:1rem;color:var(--text);text-decoration:none}
+.hero{padding:4rem 0}.hero-grid{display:grid;grid-template-columns:2fr 1fr;gap:2rem}.kicker{color:var(--accent);font-weight:700;text-transform:uppercase;font-size:.8rem}
+h1,h2,h3{line-height:1.2}.hero-actions{display:flex;gap:.75rem;flex-wrap:wrap;margin-top:1rem}
+.btn{padding:.7rem 1rem;border-radius:.5rem;text-decoration:none;font-weight:700}.btn-primary{background:var(--accent);color:#fff}.btn-secondary{border:1px solid var(--accent);color:var(--accent)}
+.card,.guide-card,.post-card,.post-detail{background:var(--paper);border:1px solid #e8e0d6;border-radius:.7rem;padding:1rem}
+.section{padding:3rem 0}.section-alt{background:#efe7dd}.section-head{margin-bottom:1.25rem}.section-head p{color:var(--muted)}
+.post-grid,.guide-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem}
+.post-card button{margin-top:.6rem;background:var(--accent);color:#fff;border:none;border-radius:.4rem;padding:.5rem .7rem;cursor:pointer}
+.post-detail{margin-top:1rem}.hidden{display:none}
+.store-card{background:#fff8ef;border-color:#dfc6a8}.guide-card a{font-weight:700;color:var(--accent)}
+.site-footer{padding:1.5rem 0;background:#1f1a15;color:#f0e9e0}.footer-wrap{display:flex;gap:1rem;justify-content:space-between;align-items:center;flex-wrap:wrap}
+.site-footer a{color:#ffd8a8}
+@media(max-width:780px){.hero-grid{grid-template-columns:1fr}}
