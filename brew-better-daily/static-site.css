@@ -1,11 +1,26 @@
 @import url('./assets/css/site.css');
-body{margin:0;font-family:Arial,sans-serif;background:#fffaf5;color:#1f1713}
-.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+body{margin:0;font-family:Arial,sans-serif;background:#fffaf5;color:#1f1713;line-height:1.6}
+.wrap{max-width:1100px;margin:0 auto;padding:0 20px}
 .site-header,.site-footer{background:#1f1713;color:#fff4e8}
 .site-header .wrap,.site-footer .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 20px}
 .site-logo img{height:44px;width:auto}
 nav a{color:#fff4e8;text-decoration:none;margin-left:14px;font-weight:700}
 main.site-main{padding:32px 0}
-article{background:#fff;border:1px solid #ead8c8;border-radius:16px;padding:22px;margin-bottom:18px}
-a{color:#8a4f2a}
-.store-plug{display:inline-block;margin-top:12px;padding:10px 14px;border-radius:999px;background:#f2dfcc;text-decoration:none;font-weight:700}
+h1{font-size:2rem;margin:0 0 8px}
+.lede{font-size:1.05rem;color:#523827}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px}
+.blog-card,.product-card,article{background:#fff;border:1px solid #ead8c8;border-radius:16px;padding:18px}
+.btn{display:inline-block;background:#8a4f2a;color:#fff;padding:10px 14px;border-radius:10px;text-decoration:none;font-weight:700}
+.btn:hover{background:#6f3c1f}
+.read-meta{font-size:.92rem;color:#694a35}
+.cat-links{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 20px}
+.cat-links a{border:1px solid #d6bda7;padding:6px 10px;border-radius:999px;text-decoration:none;color:#5f351c;background:#fff}
+.post-layout img{max-width:100%;border-radius:14px;border:1px solid #ead8c8;margin:10px 0 14px}
+.disclosure{background:#fff1e3;border-left:4px solid #c17942;padding:10px 12px;border-radius:8px;font-weight:700}
+.toc{background:#fff;border:1px dashed #e0c9b4;border-radius:12px;padding:12px;margin:14px 0}
+.table-wrap{overflow:auto}
+table{width:100%;border-collapse:collapse;background:#fff}
+th,td{border:1px solid #ead8c8;padding:10px;text-align:left;vertical-align:top}
+.mini-disc{display:block;font-size:.82rem;color:#77533d;margin-top:5px}
+.img-placeholder{height:220px;display:grid;place-items:center;background:#f6eadf;border-radius:12px;color:#7b5741;margin:10px 0}
+.back-link{display:inline-block;margin-bottom:10px}
